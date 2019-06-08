@@ -1,2 +1,8 @@
 # wonderlangTranslation
-간단히 만들어봄 
+
+Start 
+
+```sh
+yarn start 디스코드는 갓입니다
+//{"input":"앙","output":"앙"}
+```
