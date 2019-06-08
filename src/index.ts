@@ -9,4 +9,4 @@ const lang = require("wonderlangpark")
 
 let asy = process.argv[2];
 
-console.log(JSON.stringify(lang.towonder(asy)))
+console.log(lang.towonder(asy).output)
